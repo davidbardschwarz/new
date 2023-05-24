@@ -18,13 +18,13 @@ body {
 }
 
 #left-paddle {
-  background-color: white;
+  background-color: black;
   left: 10px;
   height: 25px;
 }
 
 #right-paddle {
-  background-color: white;
+  background-color: black;
   right: 10px;
 }
 
@@ -83,7 +83,7 @@ body {
 }
 
 .score {
-  display: block;
+  display: none;
   position: absolute;
   font-family: Arial, Helvetica, sans-serif;
   top: 0;
